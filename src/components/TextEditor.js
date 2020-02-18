@@ -21,7 +21,7 @@ const initialValue = Value.fromJSON({
             object: "text",
             leaves: [
               {
-                text: "My first paragfrafidoai"
+                text: "Hello this is a Simple text editor. You can use your keyboard to edit it too. Crtl B to bold, Crtl U to underline"
               }
             ]
           }
